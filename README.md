@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning React Native, Sass, and Python.
 - 💞️ I’m looking to collaborate on any fun open source products that make a difference...
 - 📫 How to reach me: 
--     Email (minus the spaces): lori kelley 84 @ gmail . com
+-     Email (minus the spaces): lori kelley 32 @ gmail . com
       Website: lorik.dev
       Linked In: www.linkedin.com/in/lorikelley84
  ...
