@@ -1,10 +1,9 @@
 - 👋 Hi, I’m Lori Kelley, full-stack web developer freelancer
-- 👀 I’m interested in small or large websites, web apps, mobile apps, vanilla javascript, php, custom wordpress, bug detecion, blog content writing, sales pages, splash pages, marketing material, SEO, responsive design
-- 🌱 I’m currently learning React Native, Sass, and Python.
+- 👀 I’m interested in charity contributions, freelance web development work, small or large websites, web apps, mobile apps, vanilla javascript, php, custom wordpress, bug detecion, blog content writing, sales pages, splash pages, marketing material, SEO, responsive design
 - 💞️ I’m looking to collaborate on any fun open source products that make a difference...
 - 📫 How to reach me: 
--     Email (minus the spaces): lori kelley 32 @ gmail . com
-      Website: lorik.dev
+-     Email (minus the spaces): lori developer @ gmail . com
+      Website: lorikelley.dev
       Linked In: www.linkedin.com/in/lorikelley84
  ...
 
